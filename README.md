@@ -42,3 +42,38 @@ Para começar a usar watsonx e explorar IA generativa, siga estes passos:
 2. **Clone este repositório**:
    ```bash
    git clone https://github.com/seu-usuario/ia-generativa-watsonx.git
+
+
+## Exemplo de Código no Google Colab
+
+Clique no botão abaixo para acessar e executar o código diretamente no Google Colab:
+
+
+# Projeto de IA Generativa com watsonx
+
+Este repositório contém exemplos de código para IA generativa utilizando a plataforma watsonx da IBM.
+
+## Exemplo de Código no Google Colab
+
+Clique no botão abaixo para acessar e executar o código diretamente no Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mw_WlF8J9kvfLBhhDMBcyxLD8dNNIcXA?usp=sharing)
+
+ 
+
+---
+
+## Como Usar
+
+1. Clique no botão acima para abrir o notebook no Google Colab.
+2. Faça uma cópia do notebook no seu Google Drive (opcional).
+3. Execute as células e explore o código!
+
+---
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+
+
